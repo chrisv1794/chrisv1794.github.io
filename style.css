@@ -17,9 +17,9 @@
   }
  
   .header {
-    text-align: center;
+    text-align: left;
     border-top: solid;
-    padding-right: 60%;
+    padding-right: 0%;
     padding-top: 3ch;
 
   }
@@ -32,32 +32,31 @@
   }
 
   .contact {
-    text-align: center;
-    border-bottom: solid;
-    padding-right: 60%;
+    text-align: left;
+    padding-right: 0%;
     padding-bottom: 0%;
     padding-top: 2ch;
 
   }
 
   .social {
-    text-align: center;
+    text-align: left;
     border-top: solid;
-    
+    padding-right: 70%;
   }
 
   .list {
-    text-align: center;
+  padding-left: 1ch;
   }
 
   .form-group {
-    text-align: center;
-    
+    text-align: left;
+    padding-right: 0ch;
+    padding-left: 0ch;
+
   }
 
-  .email {
-    padding-left: 100ch;
-    padding-bottom: 0%;
-    text-align: center;
+  .email-group {
+    text-align: left;
 
   }
