@@ -19,17 +19,25 @@
   .header {
     text-align: center;
     border-top: solid;
-    
+    padding-right: 60%;
+    padding-top: 3ch;
+
   }
   
   .about {
     border-bottom: solid;
     text-align: center;
+    padding-left: 60ch;
+    padding-bottom: 3%;
   }
 
   .contact {
     text-align: center;
     border-bottom: solid;
+    padding-right: 60%;
+    padding-bottom: 0%;
+    padding-top: 2ch;
+
   }
 
   .social {
@@ -44,4 +52,12 @@
 
   .form-group {
     text-align: center;
+    
+  }
+
+  .email {
+    padding-left: 100ch;
+    padding-bottom: 0%;
+    text-align: center;
+
   }
