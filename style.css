@@ -26,8 +26,14 @@
     border-bottom: solid;
     text-align: center;
   }
-  
+
   .contact {
     text-align: center;
+    border-bottom: solid;
+  }
+
+  .social {
+    text-align: center;
+    border-top: solid;
     
   }
