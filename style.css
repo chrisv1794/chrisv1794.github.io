@@ -29,6 +29,7 @@
     text-align: center;
     padding-left: 60ch;
     padding-bottom: 3%;
+    text-emphasis: wrap;
   }
 
   .contact {
@@ -46,7 +47,8 @@
   }
 
   .list {
-  padding-left: 1ch;
+  padding-left: 0ch;
+  font-size: x-large;
   }
 
   .form-group {
